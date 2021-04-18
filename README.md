@@ -1,5 +1,5 @@
 # Npesta
-You probably know **Npesta** for all the memes that have been made of him, most likely his renowned overdone reaction to verifying kenos. Casting aside the memes, Npesta is a really cool geometry dash youtuber, known yet again for verifying kenos (Top 4 extreme demon as of 8/2/2020) and having a quote "interesting" reaction to beating it. 
+You probably know **Npesta** for all the memes that have been made of him, most likely his renowned reaction to verifying kenos. Casting aside the memes, Npesta is a really cool geometry dash youtuber, known yet again for verifying kenos (Top 4 extreme demon as of 8/2/2020) and having a quote "interesting" reaction to beating it. 
 
 ## What is this?
 This repository contains **131 frames** of Npesta's reaction. This all started when I wanted to make a discord bot that puts the reaction in your avatar as a gif. I ran into many issues and spent a lot of time restarting, rewriting and improving. By the date 4/18/2021, I believe I created the best version yet, despite there being a few improvements I know I can do. 
