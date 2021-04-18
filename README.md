@@ -3,6 +3,8 @@ You probably know **Npesta** for all the memes that have been made of him, most 
 
 ## What is this?
 This repository contains **131 frames** of Npesta's reaction. This all started when I wanted to make a discord bot that puts the reaction in your avatar as a gif. I ran into many issues and spent a lot of time restarting, rewriting and improving. By the date 4/18/2021, I believe I created the best version yet, despite there being a few improvements I know I can do. 
+
+# Using CommonJS
 - `/links.js` | This contains all 131 frames in discord links.
 - `/object.js` | Contains a Javascript object with face pixel coordinates. (I wanted to use JSON, but JS was slightly more convenient)
 - `/npesta reaction/` | Folder contains all 131 frames as png files.
